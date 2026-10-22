@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Domain: Iraq Energy](https://img.shields.io/badge/Location-Basra%2C%20Southern%20Iraq-007ACC.svg)](https://github.com/mohammedbasra-star)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mohammedbasra-star/basra-extreme-heat-turbine-derating-ml-/blob/main/notebooks/quickstart_demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mohammedbasra-star/basra-extreme-heat-turbine-derating-ml--/blob/main/notebooks/quickstart_demo.ipynb)
 
 A research-grade machine learning repository calibrated to authentic meteorological and industrial conditions in **Basra Governorate, Southern Iraq (Shatt Al-Basra / Rumaila power plants)**. Investigates heavy-duty gas turbine power output collapse under extreme summer temperatures ($> 50^\circ\text{C}$ / $122^\circ\text{F}$) and evaluates evaporative inlet air fogging cooling recovery.
 
@@ -83,8 +83,8 @@ Relative impact of ambient variables driving gas turbine generation collapse:
 ## 🚀 Quickstart & Usage
 
 ```bash
-git clone https://github.com/mohammedbasra-star/basra-extreme-heat-turbine-derating-ml-.git
-cd basra-extreme-heat-turbine-derating-ml-
+git clone https://github.com/mohammedbasra-star/basra-extreme-heat-turbine-derating-ml--.git
+cd basra-extreme-heat-turbine-derating-ml--
 pip install -r requirements.txt
 
 # 1. Generate 8,760 hourly Basra records
