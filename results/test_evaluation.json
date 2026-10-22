@@ -1,0 +1,10 @@
+{
+    "pgnn_r2": 0.998196005821228,
+    "pgnn_rmse_mw": 0.4650853755212096,
+    "gradient_boosting_r2": 0.9998810455726386,
+    "gradient_boosting_rmse_mw": 0.11942730190325836,
+    "random_forest_r2": 0.9999855843558331,
+    "random_forest_rmse_mw": 0.04157481662836678,
+    "ridge_r2": 0.9994944869065281,
+    "ridge_rmse_mw": 0.24619516519470816
+}
